@@ -1,4 +1,4 @@
-ITH Tiv2015Duplicates AS (
+WITH Tiv2015Duplicates AS (
     SELECT tiv_2015
     FROM Insurance
     GROUP BY tiv_2015
