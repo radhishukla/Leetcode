@@ -1,29 +1,22 @@
-# Leetcode
-# SQL50 LeetCode Solutions
+# LeetCode Solutions: SQL50 & Introduction to Pandas
 
-This repository contains my solutions to the SQL50 problems on LeetCode.
+This repository contains my solutions for LeetCode’s SQL50 and Introduction to Pandas problem sets.
 
-Each file is named based on the problem number for easy reference.
+## Contents
 
-## Folder Structure
-
-- `sql50_0001.sql`
-- `sql50_0002.sql` 
-- `sql50_0003.sql`  
-- ...and so on.
+- **SQL50:** Solutions to SQL practice problems covering various SQL concepts.  
+- **Introduction to Pandas:** Python scripts solving basic to intermediate Pandas challenges.
 
 ## How to Use
 
-You can view or download each `.sql` file and run it in your preferred SQL environment.
-
-These queries are based on LeetCode’s database schema and tested on the platform.
+Each solution file is named according to the problem number and topic. You can browse or download the files to run them in your preferred SQL or Python environment.
 
 ## Purpose
 
-- Practice SQL for interviews  
-- Track personal progress  
-- Share clean, readable solutions
+- Practice and improve SQL & Pandas skills  
+- Track my progress on LeetCode challenges  
+- Share clean and organized solutions for reference
 
 ---
 
-Feel free to fork, star ⭐, or use these as reference for your own learning!
+Feel free to explore, fork, and star ⭐ the repo!
